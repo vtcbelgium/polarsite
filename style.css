@@ -33,3 +33,17 @@ nav a {
     padding: 40px;
     border-radius: 16px;
 }
+.right label {
+    display: block;
+    margin-top: 16px;
+    margin-bottom: 4px;
+}
+
+.right input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    border: none;
+    border-radius: 6px;
+    box-sizing: border-box;
+}
