@@ -47,3 +47,35 @@ nav a {
     border-radius: 6px;
     box-sizing: border-box;
 }
+.right button {
+    display: block;
+    width: 100%;
+    padding: 16px;
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: white;
+    border: none;
+    border-radius: 6px;
+    font-weight: bold;
+    cursor: pointer;
+}
+.stat {
+    font-size: 24px;
+}
+
+.stat .big {
+    font-size: 40px;
+    font-weight: bold;
+}
+.car-image {
+    width: 500px;
+    max-width: 100%;
+}
+.lorem {
+    font-size: 14px;
+    opacity: 0.7;
+}
+.right h1 .six {
+    font-size: 56px;
+    font-weight: normal;
+}
