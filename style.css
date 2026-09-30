@@ -11,3 +11,25 @@ main {
     gap: 40px;
     padding: 40px;
 }
+.logo {
+    width: 40px;
+    height: auto;
+}
+header {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+    padding: 20px 40px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 20px;
+    font-weight: bold;
+}
+.right {
+    background: rgba(255, 255, 255, 0.15);
+    padding: 40px;
+    border-radius: 16px;
+}
